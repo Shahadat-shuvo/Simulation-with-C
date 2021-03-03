@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shuvo
 #### I am a frontend developer from Bangladesh
-![I am a frontend developer from Bangladesh](https://shuvossmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a frontend developer from Bangladesh](https://shahadat-shuvo.github.io/github-profile-readme-generator/images/banner.png)
 
 I think I am funny & friendly.
 
